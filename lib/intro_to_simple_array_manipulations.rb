@@ -7,5 +7,8 @@ def using_unshift(array, string)
   
 end
 
-using_pop(array)
+def using_pop(array)
+array.pop
 end
+
+def
